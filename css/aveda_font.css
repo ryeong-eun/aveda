@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GyeonggiBatang';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/GyeonggiBatang.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+font-family:font_ns;
+font-weight:normal;
+src:local(※);
+    src: url(../fonts/NotoSansKR-Regular.eot);
+    src: url(../fonts/NotoSansKR-Regular.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/NotoSansKR-Regular.woff) format('woff'),
+    url(../fonts/NotoSansKR-Regular.ttf) format('truetype');
+}
+@font-face {
+font-family:font_ns;
+font-weight:300;
+src:local(※);
+    src: url(../fonts/NotoSansKR-Medium.eot);
+    src: url(../fonts/NotoSansKR-Medium.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/NotoSansKR-Medium.woff) format('woff'),
+    url(../fonts/NotoSansKR-Medium.ttf) format('truetype');
+}
+@font-face {
+font-family:font_ns;
+font-weight:bold;
+src:local(※);
+    src: url(../fonts/NotoSansKR-Bold.eot);
+    src: url(../fonts/NotoSansKR-Bold.eot?#iefix) format('embedded-opentype'),
+    url(../fonts/NotoSansKR-Bold.woff) format('woff'),
+    url(../fonts/NotoSansKR-Bold.ttf) format('truetype');
+}
