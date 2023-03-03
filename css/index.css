@@ -2,7 +2,7 @@
 *{margin: 0; padding: 0;}
 ul{list-style: none;}
 a{color: #000; text-decoration: none;}
-body{font-style: 16px; color: #000; font-family: 'Pretendard-Regular', sans-serif; }
+body{font-style: 16px; color: #000; font-family: 'Pretendard';}
 
 
 
@@ -306,9 +306,9 @@ body{font-style: 16px; color: #000; font-family: 'Pretendard-Regular', sans-seri
 }
 
 .ing .ing-desc span{font-family: 'GyeonggiBatang'; font-size: 3.125rem; font-weight: 900; display: table; margin: 0 auto;}
-.ing .ing-desc p:nth-child(2){font-family:font_ns; font-weight: 400; padding: 3%; font-size: 1.5rem; cursor: pointer;}
+.ing .ing-desc p:nth-child(2){font-family: 'Noto Sans KR'; font-weight: 400; padding: 3%; font-size: 1.5rem; cursor: pointer;}
 /* 더보기 */
-.ing .ing-desc p a{font-family:font_ns; font-weight: 500;  font-size: 0.875rem; position: relative; color: #fff; left: -2%;}
+.ing .ing-desc p a{font-family: 'Noto Sans KR'; font-weight: 500;  font-size: 0.875rem; position: relative; color: #fff; left: -2%;}
 .ing .ing-desc p a::after{
     content: "";
     position: absolute;
@@ -498,7 +498,7 @@ body{font-style: 16px; color: #000; font-family: 'Pretendard-Regular', sans-seri
 }
 .bnf .bnf-desc span{font-family: 'GyeonggiBatang'; font-size: 3.125rem; font-weight: 900; display: inline-block;padding-top: 10%; padding-bottom: 8%;}
 .bnf .bnf-desc p{ margin-right: 24%;}
-.bnf .bnf-desc p a{ display: inline-block; font-family:font_ns; font-weight: 500;  font-size: 0.9rem; position: relative; }
+.bnf .bnf-desc p a{ display: inline-block; font-family: 'Noto Sans KR'; font-weight: 500;  font-size: 0.9rem; position: relative; }
 .bnf .bnf-desc p a::after{
     content: "";
     position: absolute;
@@ -535,7 +535,7 @@ body{font-style: 16px; color: #000; font-family: 'Pretendard-Regular', sans-seri
 .tab-bnf .tab-bnf-desc{width: 100%; text-align: center;}
 .tab-bnf .tab-bnf-desc span{font-family: 'GyeonggiBatang'; font-size: 2.8rem;; font-weight: 900; display: inline-block; margin-top: 6%; margin-bottom: 2%;}
 .tab-bnf .tab-bnf-desc p{padding-bottom: 2%;}
-.tab-bnf .tab-bnf-desc p a{font-family:font_ns; font-weight: 600;  font-size: 0.875rem; position: relative; color: #000; left: -4.5%;}
+.tab-bnf .tab-bnf-desc p a{font-family: 'Noto Sans KR'; font-weight: 600;  font-size: 0.875rem; position: relative; color: #000; left: -4.5%;}
 .tab-bnf .tab-bnf-desc p a::after{
     content: "";
     position: absolute;
@@ -878,7 +878,7 @@ body{font-style: 16px; color: #000; font-family: 'Pretendard-Regular', sans-seri
     .tab-bnf{display: block;}
     .tab-bnf .tab-bnf-desc{max-width: 767px; text-align: left; padding: 0 3%; display: flex; position: relative;}
     .tab-bnf .tab-bnf-desc p{padding-bottom: 0; right: 20%; position: absolute; bottom: 15%;}
-    .tab-bnf .tab-bnf-desc p a{font-family:font_ns; font-weight: 600;  font-size: 1rem; position: relative; color: #000; }
+    .tab-bnf .tab-bnf-desc p a{font-family: 'Noto Sans KR'; font-weight: 600;  font-size: 1rem; position: relative; color: #000; }
     .tab-bnf .tab-bnf-desc p a::after{
         content: "";
         position: absolute;
